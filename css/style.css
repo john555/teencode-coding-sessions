@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+#header {
+  padding: 20px;
+  background-color: black;
+  background-image: url(../images/image1.jpg);
+  background-position: center 0;
+  height: 500px;
+}
+
+#logo {
+  width: 100px;
+}
+
+a {
+  color: white;
+}
+
+.nav {
+  float: right;
+}
